@@ -22,5 +22,5 @@ To run this game, you need Python 3.x and the following package:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/SeiduOscar/CodeQuest.git
+   git clone https://github.com/SeiduOscar/HackHeroesPythonProjects.git
    cd CodeQuest
